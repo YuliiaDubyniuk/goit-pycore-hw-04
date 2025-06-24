@@ -2,6 +2,7 @@ import handlers
 
 
 def main():
+    """Handle contacts through CLI"""
     contacts = {}
     print("Welcome to the assistant bot!")
     while True:
